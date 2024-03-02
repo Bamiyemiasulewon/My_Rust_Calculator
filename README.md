@@ -17,7 +17,7 @@ Execute the calculator with:
 cargo run
 ```
 
-Follow the prompts to perform basic calculations.
+Follow the prompts to perform basic calculations
 
 ## Example
 
