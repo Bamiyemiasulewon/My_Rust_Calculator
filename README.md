@@ -1,5 +1,5 @@
 # My_Rust_Calculator
-A simple command-line calculator implemented in Rust. 
+A simple command-line calculator implemented in Rust.
 
 ## Installation
 
